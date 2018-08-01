@@ -1,0 +1,95 @@
+Dialogue #0 - Dialogue Participants: unknown, the nurse
+none Turn 1: 13 -- unknown (-1): Let me see the child, and die.
+none Turn 2: 15 -- unknown (-1): Oh, you must not talk about dying yet.
+narrative Turn 3: 16 -- the nurse (72): Lor bless her dear heart, no!
+none Turn 4: 17 -- unknown (-1): Lor bless her dear heart, when she has lived as long as I have, sir, and had thirteen children of her own, and all on 'em dead except two, and them in the wurkus with me, she'll know better than to take on in that way, bless her dear heart! Think what it is to be a mother, there's a dear young lamb do.
+
+Dialogue #1 - Dialogue Participants: the surgeon at last, the nurse, the surgeon, the old woman, unknown
+narrative Turn 1: 20 -- the surgeon at last (73): It's all over, Mrs. Thingummy!
+narrative Turn 2: 21 -- the nurse (74): Ah, poor dear, so it is! Poor dear!
+narrative Turn 3: 22 -- the surgeon (75): You needn't mind sending up to me, if the child cries, nurse, It's very likely it _will_ be troublesome. Give it a little gruel if it is. She was a good-looking girl, too; where did she come from?
+narrative Turn 4: 23 -- the old woman (76): She was brought here last night, by the overseer's order. She was found lying in the street. She had walked some distance, for her shoes were worn to pieces; but where she came from, or where she was going to, nobody knows.
+none Turn 5: 24 -- unknown (-1): The old story, no wedding-ring, I see. Ah! Good-night!
+
+Dialogue #2 - Dialogue Participants: unknown
+none Turn 1: 30 -- unknown (-1): who was in a situation to impart to Oliver Twist, the consolation and nourishment of which he stood in need. The workhouse authorities replied with humility, that there was not. Upon this, the parish authorities magnanimously and humanely resolved, that Oliver should be 'farmed,
+
+Dialogue #3 - Dialogue Participants: Mrs. Mann, Mr. Bumble, the beadle, the nurse, unknown, Oliver
+nsubj Turn 1: 34 -- Mrs. Mann (56): Goodness gracious! Is that you, Mr. Bumble, sir? (Susan, take Oliver and them two brats upstairs, and wash 'em directly.)--My heart alive! Mr. Bumble, how glad I am to see you, sure-ly!
+nsubj Turn 2: 36 -- Mrs. Mann (56): Lor, only think, only think of that! That I should have forgotten that the gate was bolted on the inside, on account of them dear children! Walk in sir; walk in, pray, Mr. Bumble, do, sir.
+nsubj Turn 3: 38 -- Mr. Bumble (50): Do you think this respectful or proper conduct, Mrs. Mann, to keep the parish officers a waiting at your garden-gate, when they come here upon porochial business with the porochial orphans? Are you aweer, Mrs. Mann, that you are, as I may say, a porochial delegate, and a stipendiary?
+limited Turn 4: 39 -- Mrs. Mann (56): I'm sure Mr. Bumble, that I was only a telling one or two of the dear children as is so fond of you, that it was you a coming,
+nsubj Turn 5: 41 -- Mr. Bumble (50): Well, well, Mrs. Mann, it may be as you say; it may be. Lead the way in, Mrs. Mann, for I come on business, and have something to say.
+limited Turn 6: 43 -- Mrs. Mann (56): Now don't you be offended at what I'm a going to say, You've had a long walk, you know, or I wouldn't mention it. Now, will you take a little drop of somethink, Mr. Bumble?
+nsubj Turn 7: 44 -- Mr. Bumble (50): Not a drop. Nor a drop,
+nsubj Turn 8: 45 -- Mrs. Mann (56): I think you will, Just a leetle drop, with a little cold water, and a lump of sugar.
+nsubj Turn 9: 47 -- Mrs. Mann (56): Now, just a leetle drop,
+narrative Turn 10: 48 -- the beadle (77): What is it?
+nsubj Turn 11: 49 -- Mrs. Mann (56): Why, it's what I'm obliged to keep a little of in the house, to put into the blessed infants' Daffy, when they ain't well, Mr. Bumble, It's gin. I'll not deceive you, Mr. B. It's gin.
+limited Turn 12: 50 -- Mr. Bumble (50): Do you give the children Daffy, Mrs. Mann?
+narrative Turn 13: 51 -- the nurse (78): Ah, bless 'em, that I do, dear as it is, I couldn't see 'em suffer before my very eyes, you know sir.
+narrative Turn 14: 53 -- the beadle (77): And now about business, The child that was half-baptized Oliver Twist, is nine year old to-day.
+limited Turn 15: 54 -- Mrs. Mann (56): Bless him!
+none Turn 16: 56 -- unknown (-1): How comes he to have any name at all, then?
+none Turn 17: 57 -- unknown (-1): I inwented it.
+none Turn 18: 58 -- unknown (-1): You, Mr. Bumble!
+nsubj Turn 19: 60 -- Mrs. Mann (56): Why, you're quite a literary character, sir!
+narrative Turn 20: 61 -- the beadle (77): Well, well, perhaps I may be. Perhaps I may be, Mrs. Mann. Oliver being now too old to remain here, the board have determined to have him back into the house. I have come out myself to take him there. So let me see him at once.
+nsubj Turn 21: 62 -- Mrs. Mann (56): I'll fetch him directly,
+nsubj Turn 22: 63 -- Mrs. Mann (56): Make a bow to the gentleman, Oliver,
+nsubj Turn 23: 65 -- Mr. Bumble (50): Will you go along with me, Oliver?
+limited Turn 24: 67 -- Oliver (0): Will she go with me?
+nsubj Turn 25: 68 -- Mr. Bumble (50): No, she can't, But she'll come and see you sometimes.
+nsubj Turn 26: 70 -- Mr. Bumble (50): nearly there.
+
+Dialogue #4 - Dialogue Participants: Mr. Bumble, the gentleman in the high chair, Oliver, the gentleman in the white waistcoat, the gentleman who had spoken first, another gentleman in a gruff voice, the boy, the red-faced gentleman in the high chair, the surly one in the white waistcoat
+nsubj Turn 1: 73 -- Mr. Bumble (50): Bow to the board,
+narrative Turn 2: 74 -- the gentleman in the high chair (79): What's your name, boy?
+narrative Turn 3: 76 -- the gentleman in the high chair (79): Boy, listen to me. You know you're an orphan, I suppose?
+limited Turn 4: 77 -- Oliver (0): What's that, sir?
+narrative Turn 5: 78 -- the gentleman in the white waistcoat (81): The boy _is_ a fool--I thought he was,
+narrative Turn 6: 79 -- the gentleman who had spoken first (82): Hush! You know you've got no father or mother, and that you were brought up by the parish, don't you?
+limited Turn 7: 80 -- Oliver (0): Yes, sir,
+narrative Turn 8: 81 -- the gentleman in the white waistcoat (81): What are you crying for?
+narrative Turn 9: 82 -- another gentleman in a gruff voice (84): I hope you say your prayers every night, and pray for the people who feed you, and take care of you--like a Christian.
+narrative Turn 10: 83 -- the boy (85): Yes, sir,
+narrative Turn 11: 84 -- the red-faced gentleman in the high chair (86): Well! You have come here to be educated, and taught a useful trade,
+narrative Turn 12: 85 -- the surly one in the white waistcoat (87): So you'll begin to pick oakum to-morrow morning at six o'clock,
+
+Dialogue #5 - Dialogue Participants: the board
+narrative Turn 1: 88 -- the board (88): Oho! we are the fellows to set this to rights; we'll stop it all, in no time.
+
+Dialogue #6 - Dialogue Participants: unknown, the master at length, Oliver
+none Turn 1: 93 -- unknown (-1): Please, sir, I want some more.
+narrative Turn 2: 95 -- the master at length (80): What!
+limited Turn 3: 96 -- Oliver (0): Please, sir, I want some more.
+
+Dialogue #7 - Dialogue Participants: unknown, Mr. Limbkins, Bumble, the gentleman in the white waistcoat
+none Turn 1: 99 -- unknown (-1): Mr. Limbkins, I beg your pardon, sir! Oliver Twist has asked for more!
+nsubj Turn 2: 101 -- Mr. Limbkins (54): For _more_! Compose yourself, Bumble, and answer me distinctly. Do I understand that he asked for more, after he had eaten the supper allotted by the dietary?
+narrative Turn 3: 102 -- Bumble (83): He did, sir,
+narrative Turn 4: 103 -- the gentleman in the white waistcoat (89): That boy will be hung, I know that boy will be hung.
+narrative Turn 5: 105 -- the gentleman in the white waistcoat (89): I never was more convinced of anything in my life, I never was more convinced of anything in my life, than I am that that boy will come to be hung.
+
+Dialogue #8 - Dialogue Participants: Oliver, Mr. Gamfield
+limited Turn 1: 110 -- Oliver (0): the system,
+nsubj Turn 2: 112 -- Mr. Gamfield (58): Wo--o!
+
+Dialogue #9 - Dialogue Participants: the gentleman in the white waistcoat, Mr. Limbkins, another gentleman
+narrative Turn 1: 117 -- the gentleman in the white waistcoat (90): Ay, my man, What of him?
+narrative Turn 2: 119 -- the gentleman in the white waistcoat (90): Walk in,
+nsubj Turn 3: 120 -- Mr. Limbkins (54): It's a nasty trade,
+narrative Turn 4: 121 -- another gentleman (92): Young boys have been smothered in chimneys before now,
+
+Dialogue #10 - Dialogue Participants: unknown, the gentleman in the white waistcoat, the other members
+none Turn 1: 125 -- unknown (-1): We have considered your proposition, and we don't approve of it.
+narrative Turn 2: 126 -- the gentleman in the white waistcoat (91): Not at all,
+narrative Turn 3: 127 -- the other members (93): Decidedly not,
+
+Dialogue #11 - Dialogue Participants: Mr. Limbkins
+limited Turn 1: 130 -- Mr. Limbkins (54): No, at least, as it's a nasty business, we think you ought to take something less than the premium we offered.
+
+Dialogue #12 - Dialogue Participants: Mr. Limbkins, the gentleman in the white waistcoat, unknown
+nsubj Turn 1: 133 -- Mr. Limbkins (54): I should say, three pound ten was plenty,
+narrative Turn 2: 134 -- the gentleman in the white waistcoat (94): Ten shillings too much,
+nsubj Turn 3: 136 -- Mr. Limbkins (54): Three pound ten,
